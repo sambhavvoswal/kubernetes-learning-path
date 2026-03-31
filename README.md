@@ -1,6 +1,6 @@
 # Learn Kubernetes from scratch (Beginner to Advanced level)
 
-## 🎖️ Credits: [DevOpsCude](https://devopscube.com)
+## 🎖️ Credits: [DevOpsCube](https://devopscube.com)
 
 > 💚 Thanks for the Beautiful article from [Bibin](https://devopscube.com/author/bibinwilson/) ✍️ | [Orginal Blog/Post](https://devopscube.com/learn-kubernetes-complete-roadmap)
 
